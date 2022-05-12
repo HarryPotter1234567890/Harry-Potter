@@ -1,0 +1,21 @@
+h3{
+    width: 100%;
+    margin:0;
+    font-size:20px !important;
+    box-shadow: 5px 5px 5px teal;
+}
+h1{
+    font-size: 25px !important;
+}
+canvas{
+    margin-top:10%;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px aquamarine;
+
+}
+body{
+    background-image:url("maxresdefault.jpeg");
+    
+    background-size:cover;
+}
